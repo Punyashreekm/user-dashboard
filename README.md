@@ -1,3 +1,15 @@
+My Approach
+
+- Initialized the project using Vite
+
+- Configured Tailwind CSS for responsive and modern UI styling.
+
+- Integrated Redux Toolkit to manage API calls, loading, and error states efficiently.
+
+- Built a reusable UserList component to display user data fetched from the API.
+s
+- Implemented search functionality using useSearchParams to sync search values with the URL and send them as query parameters (q) for fetching filtered results.
+
 
 Installation and Setup Instructions
 
